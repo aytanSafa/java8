@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57326-d3c3-41af-a4cf-f9db5d6a1cc7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/functionalInterfaces/PredicateAndConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionalInterfaces/PredicateAndConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PredicateAndConsumerExample">
+  <component name="RunManager" selected="Application.FunctionExample">
     <configuration name="BiConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterfaces.BiConsumerExample" />
       <module name="java-8" />
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.ConsumerExample" />
+    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.FunctionExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionExample" />
         <item itemvalue="Application.PredicateAndConsumerExample" />
         <item itemvalue="Application.PredicateStudentExample" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.BiConsumerExample" />
-        <item itemvalue="Application.ConsumerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679747421469</updated>
-      <workItem from="1679747422024" duration="8364000" />
+      <workItem from="1679747422024" duration="9416000" />
     </task>
     <servers />
   </component>
