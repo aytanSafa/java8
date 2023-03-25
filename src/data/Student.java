@@ -67,6 +67,7 @@ public class Student {
                 ", gradeLevel=" + gradeLevel +
                 ", gpa=" + gpa +
                 ", gender='" + gender + '\'' +
+                ", activities=" + activities +
                 '}';
     }
 }
