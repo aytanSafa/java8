@@ -45,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SupplierExample">
+  <component name="RunManager" selected="Application.FunctionMethodReferenceExample">
     <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterfaces.BiFunctionExample" />
       <module name="java-8" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionStudentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.FunctionStudentExample" />
+    <configuration name="FunctionMethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodreference.FunctionMethodReferenceExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterfaces.*" />
+          <option name="PATTERN" value="methodreference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateAndConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.PredicateAndConsumerExample" />
+    <configuration name="FunctionStudentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.FunctionStudentExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionMethodReferenceExample" />
         <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.BiFunctionExample" />
         <item itemvalue="Application.FunctionStudentExample" />
         <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.PredicateAndConsumerExample" />
       </list>
     </recent_temporary>
   </component>
