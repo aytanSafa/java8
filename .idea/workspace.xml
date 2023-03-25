@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57326-d3c3-41af-a4cf-f9db5d6a1cc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/PredicateStudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/PredicateAndConsumerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PredicateStudentExample">
+  <component name="RunManager" selected="Application.PredicateAndConsumerExample">
     <configuration name="BiConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterfaces.BiConsumerExample" />
       <module name="java-8" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparatorLambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ComparatorLambdaExample" />
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.ConsumerExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.*" />
+          <option name="PATTERN" value="functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.ConsumerExample" />
+    <configuration name="PredicateAndConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.PredicateAndConsumerExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateAndConsumerExample" />
         <item itemvalue="Application.PredicateStudentExample" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.BiConsumerExample" />
         <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.ComparatorLambdaExample" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679747421469</updated>
-      <workItem from="1679747422024" duration="6705000" />
+      <workItem from="1679747422024" duration="7650000" />
     </task>
     <servers />
   </component>
