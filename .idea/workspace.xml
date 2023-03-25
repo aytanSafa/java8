@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57326-d3c3-41af-a4cf-f9db5d6a1cc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/numericstreams/NumericStreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numericstreams/NumericStreamAggregateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StreamFindAnyFirstExample">
-    <configuration name="StreamFindAnyFirstExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamFindAnyFirstExample" />
+  <component name="RunManager" selected="Application.NumericStreamAggregateExample">
+    <configuration name="NumericStreamAggregateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numericstreams.NumericStreamAggregateExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="numericstreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamMapReduceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamMapReduceExample" />
+    <configuration name="StreamFindAnyFirstExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.StreamFindAnyFirstExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumericStreamAggregateExample" />
         <item itemvalue="Application.StreamFindAnyFirstExample" />
         <item itemvalue="Application.StreamsMatchExample" />
         <item itemvalue="Application.StreamsLimitSkipExample" />
         <item itemvalue="Application.StreamMinMaxExample" />
-        <item itemvalue="Application.StreamMapReduceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679747421469</updated>
-      <workItem from="1679747422024" duration="16729000" />
+      <workItem from="1679747422024" duration="17267000" />
     </task>
     <servers />
   </component>
