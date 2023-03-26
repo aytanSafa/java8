@@ -14,7 +14,7 @@ public class OptionalPresentExample {
         // ifPresent
         optional.ifPresent(s -> System.out.println(s));
 
-        
+
 
     }
 

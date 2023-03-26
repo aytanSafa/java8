@@ -2,11 +2,17 @@ package data;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.function.Supplier;
 
 public class StudentDataBase {
 
-    public static Supplier<Student> studentSupplier = () -> new Student("Adam",2,3.6,"male", Arrays.asList("swimming","basketball","volleyball"),11);
+    public static Supplier<Student> studentSupplier = () -> {
+        Bike bike = new Bike("ABC","XYZ");
+        Student student = new Student("Adam",2,3.6,"male", Arrays.asList("swimming","basketball","volleyball"),11);
+        student.setBike(Optional.ofNullable(bike));
+        return student;
+    };
 
     public static List<Student> getAllStudents(){
 
