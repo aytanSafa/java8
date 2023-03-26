@@ -43,7 +43,7 @@ public class LocalDateTimeExample {
         LocalDateTime localDateTime4 = localTime.atDate(localDate);
         System.out.println("ToLocalDate : "+ localDateTime4.toLocalDate());
         System.out.println("ToLocalTime : "+ localDateTime4.toLocalTime());
-        
+
     }
 
 }

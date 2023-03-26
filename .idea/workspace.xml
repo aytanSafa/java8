@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b57326-d3c3-41af-a4cf-f9db5d6a1cc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dates/PeriodExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dates/LocalDateTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dates/LocalDateTimeExample.java" afterDir="false" />
     </list>
@@ -45,7 +46,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LocalDateTimeExample">
+  <component name="RunManager" selected="Application.PeriodExample">
     <configuration name="LocalDateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dates.LocalDateExample" />
       <module name="java-8" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalMapFlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optional.OptionalMapFlatMapExample" />
+    <configuration name="PeriodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dates.PeriodExample" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="optional.*" />
+          <option name="PATTERN" value="dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PeriodExample" />
         <item itemvalue="Application.LocalDateTimeExample" />
         <item itemvalue="Application.LocalTimeExample" />
         <item itemvalue="Application.LocalDateExample" />
         <item itemvalue="Application.NewDateTimeExample" />
-        <item itemvalue="Application.OptionalMapFlatMapExample" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679747421469</updated>
-      <workItem from="1679747422024" duration="28294000" />
+      <workItem from="1679747422024" duration="28633000" />
     </task>
     <servers />
   </component>
