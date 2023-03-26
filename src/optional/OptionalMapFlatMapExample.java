@@ -39,8 +39,7 @@ public class OptionalMapFlatMapExample {
                 .filter(student -> student.getGpa() > 3.5)
                 .flatMap(Student::getBike)
                 .map(Bike::getName);
-        name.ifPresent(s -> System.out.println(s));
-
+        name.ifPresent(System.out::println);
     }
 
 
