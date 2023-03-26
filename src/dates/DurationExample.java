@@ -18,7 +18,7 @@ public class DurationExample {
 
         Duration duration1 = Duration.ofHours(3);
         System.out.println("to Minutes : " + duration1.toMinutes());
-        
+
     }
 
 
